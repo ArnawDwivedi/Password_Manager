@@ -3,6 +3,7 @@
 
 A beginner-to-intermediate Python project suitable for GitHub.
 
+
 ## Features
 - Save account credentials
 - Search credentials
@@ -16,4 +17,4 @@ A beginner-to-intermediate Python project suitable for GitHub.
 - CRUD functionality
 
 ## Run
-```bash
+- bashgit  
